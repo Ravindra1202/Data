@@ -1,58 +1,34 @@
 { 
     "pizza":[
-    {
-        
-     "id":1001,
+        {        
+        "id":1001,
         "massage":"California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
         "sname": "california Pizza",
         "link": "https://www.netflix.com/in/massage/80990668?source=35",
         "offer":"50% OFF",
-    }, 
-        {
-        
-     "id":1002,
-        "massage": "California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
+        }, 
+        {        
+        "id":1001,
+        "massage":"California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
         "sname": "california Pizza",
         "link": "https://www.netflix.com/in/massage/80990668?source=35",
         "offer":"50% OFF",
-   
-    },
-        {
-        
-     "id":1003,
-        "massage": "California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
+        },
+        {        
+        "id":1001,
+        "massage":"California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
         "sname": "california Pizza",
         "link": "https://www.netflix.com/in/massage/80990668?source=35",
         "offer":"50% OFF",
-   
-    },
-        {
-        
-     "id":1004,
-        "massage": "California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
+        },
+        {        
+        "id":1001,
+        "massage":"California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
         "sname": "california Pizza",
         "link": "https://www.netflix.com/in/massage/80990668?source=35",
         "offer":"50% OFF",
-   
-    },
-        {
-        
-     "id":1005,
-        "massage": "California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
-        "sname": "california Pizza",
-        "link": "https://www.netflix.com/in/massage/80990668?source=35",
-        "offer":"50% OFF",
-   
-    },
-        {
-        
-     "id":1006,
-        "massage": "California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
-        "sname": "california Pizza",
-        "link": "https://www.netflix.com/in/massage/80990668?source=35",
-        "offer":"50% OFF",
-   
-    }
-        
-        ]
-}
+        }
+         
+    
+    ]
+        }
