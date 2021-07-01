@@ -1,0 +1,70 @@
+Data = [
+    {
+        
+        imgsrc: "./images/california.jpg",
+        massage: "California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
+        sname: "california Pizza",
+        link: "https://www.netflix.com/in/massage/80990668?source=35",
+        offer:"50% OFF",
+        variety:[{cat:"pan pizz",name:"offer"}]
+    },
+    { 
+        
+        imgsrc:"./images/chicago.jpg",
+        massage:"The toppings for Chicago pizza are ground beef, sausage, pepperoni, onion, mushrooms, and green peppers.",
+        sname:"Chicago Pizza",
+        link:"https://www.netflix.com/in/massage/80990668?source=35",
+        offer:"25% OFF"
+    },
+    
+    { 
+         
+        imgsrc:"./images/louis.jpg",
+        massage:"The typical Neapolitan pizza toppings are fresh mozzarella, tomatoes, basil leaves, oregano, and olive oil.",
+        sname:"Louis Pizza",
+        link:"https://www.netflix.com/in/massage/80990668?source=35",
+        offer:"30% OFF"
+    },
+    { 
+       
+        imgsrc:"./images/neapolitan_pizza.jpg",
+        massage:"The typical Neapolitan pizza toppings are fresh mozzarella, tomatoes, basil leaves, oregano, and olive oil.",
+        sname:"Neapolitan Pizza",
+        link:"https://www.netflix.com/in/massage/80990668?source=35",
+        offer:"70% OFF"
+    } ,
+    {
+        
+        imgsrc: "./images/california.jpg",
+        massage: "California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
+        sname: "california Pizza",
+        link: "https://www.netflix.com/in/massage/80990668?source=35",
+        offer:"50% OFF",
+        variety:[{cat:"pan pizz",name:"offer"}]
+    },
+    { 
+        
+        imgsrc:"./images/chicago.jpg",
+        massage:"The toppings for Chicago pizza are ground beef, sausage, pepperoni, onion, mushrooms, and green peppers.",
+        sname:"Chicago Pizza",
+        link:"https://www.netflix.com/in/massage/80990668?source=35",
+        offer:"25% OFF"
+    },
+    
+    { 
+         
+        imgsrc:"./images/louis.jpg",
+        massage:"The typical Neapolitan pizza toppings are fresh mozzarella, tomatoes, basil leaves, oregano, and olive oil.",
+        sname:"Louis Pizza",
+        link:"https://www.netflix.com/in/massage/80990668?source=35",
+        offer:"30% OFF"
+    },
+    { 
+       
+        imgsrc:"./images/neapolitan_pizza.jpg",
+        massage:"The typical Neapolitan pizza toppings are fresh mozzarella, tomatoes, basil leaves, oregano, and olive oil.",
+        sname:"Neapolitan Pizza",
+        link:"https://www.netflix.com/in/massage/80990668?source=35",
+        offer:"70% OFF"
+    } 
+];
