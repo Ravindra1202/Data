@@ -1,22 +1,33 @@
-{
-  foodData:[
+{ 
+    "foodData":[
+        {        
+        "id":1001,
+        "massage":"California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
+        "sname": "california Pizza",
+        
+        "offer":"50% OFF",
+        }, 
+        {        
+        "id":1001,
+        "massage":"California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
+        "sname": "california Pizza",
+        
+        "offer":"50% OFF",
+        },
+        {        
+        "id":1001,
+        "massage":"California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
+        "sname": "california Pizza",
+        " 
+        "offer":"50% OFF",
+        },
+        {        
+        "id":1001,
+        "massage":"California pizza features Provel cheese and a sweeter tomato sauce with a hefty dosage of oregano",
+        "sname": "california Pizza",
+        "offer":"50% OFF",
+        }
+         
     
-    {
-    "id":1,
-    "name":"panpizza"
-    "price":"3$"
-  },
-   {
-    "id":1,
-    "name":"panpizza"
-    "price": "3$"
-  },
-{
-    "id":1,
-    "name":"panpizza"
-    "price": "3$"
-  }
-  
-  
-  ]
+    ]
 }
